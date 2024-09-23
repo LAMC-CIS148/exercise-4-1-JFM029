@@ -16,7 +16,7 @@ header img {
 	header 3{
 		font-size: 130%;
 		font-style: italic;
-		width: 30px;
+		text-indent: 30px;
 	}
 
 }
