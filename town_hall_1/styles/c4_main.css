@@ -13,9 +13,7 @@ body {
 header img {
 	float: left;
 }
-	.shadow {
-		text-shadow: 2px (--global-color-1);
-	}
+	
 	a:focus, a:hover {
 	font-style: italic;
 }
@@ -31,12 +29,15 @@ header img {
 		text-indent: 30px;
 	}
 
-}
+.shadow {
+		text-shadow: 2px (--global-color-1);
+	}
 /* the styles for the main content */
 main {
 	clear: left;
 }
 main h1 {
+	color: var(--global-color-1);
 	font-size: 150%;
 	padding: .3em 0;
 }
