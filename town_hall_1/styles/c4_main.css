@@ -8,9 +8,9 @@ body {
 header img {
 	header h2{
 	float: left;
-	color: #800000;
+	color: var(--global-color; #800000; )
 	font-size: 170%;
-		width: 30px;
+		text-indent: 30px;
 	}
 	}
 	header 3{
