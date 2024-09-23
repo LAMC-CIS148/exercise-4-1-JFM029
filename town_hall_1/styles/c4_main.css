@@ -1,12 +1,14 @@
-/* the styles for the elements */
+
 :root {
 	--global-color-1: #800000;
 }
+/* the styles for the elements */
 body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
+	margin-left: 10px;
 }
-
+a:focus, a:hover
 /* the styles for the header */
 header img {
 	float: left;
