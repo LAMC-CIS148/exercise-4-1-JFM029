@@ -7,6 +7,9 @@ body {
 /* the styles for the header */
 header img {
 	float: left;
+	.shadow {
+		color: var(--global-color-1; #800000; )
+	}
 	header h2{
 	color: var(--global-color-1; #800000; )
 	font-size: 170%;
