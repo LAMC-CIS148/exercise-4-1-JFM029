@@ -6,8 +6,8 @@ body {
 
 /* the styles for the header */
 header img {
-	header h2{
 	float: left;
+	header h2{
 	color: var(--global-color-1; #800000; )
 	font-size: 170%;
 		text-indent: 30px;
