@@ -18,7 +18,7 @@ header img {
 	font-style: italic;
 }
 	header h2{
-	color: var(--global-color-1);
+	color: var(--global-color-1;)
 	font-size: 170%;
 		text-indent: 30px;
 	}
